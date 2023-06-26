@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github-readme-stats-lv1o.vercel.app/">
-  <img height=200 align="center" src="https://github-readme-stats-lv1o.vercel.app/api?username=ThomasGoatITMedia&show_icons=true&rank_icon=percentile&show=reviews&theme=aura_dark" />
+  <img height=200 align="center" src="https://github-readme-stats-lv1o.vercel.app/api?username=ThomasGoatITMedia&show_icons=true&rank_icon=percentile&show=reviews&count_private=true&include_orgs&theme=aura_dark" />
 </a>
 <a href="https://github-readme-stats-lv1o.vercel.app/">
-  <img height=200 align="top" src="https://github-readme-stats-lv1o.vercel.app/api/top-langs?username=ThomasGoatITMedia&layout=compact&langs_count=8&card_width=320&role=OWNER,ORGANIZATION_MEMBER&theme=aura_dark" />
+  <img height=200 align="top" src="https://github-readme-stats-lv1o.vercel.app/api/top-langs?username=ThomasGoatITMedia&layout=compact&langs_count=8&card_width=320&role=OWNER,ORGANIZATION_MEMBER&count_private=true&include_orgs&theme=aura_dark" />
 </a>
 
 <!--[![ThomasGoatITMedia's GitHub stats](https://github-readme-stats-lv1o.vercel.app/api?username=ThomasGoatITMedia\&show_icons=true\&rank_icon=percentile\&theme=aura_dark)](https://github-readme-stats-lv1o.vercel.app/)
