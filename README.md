@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github-readme-stats-lv1o.vercel.app/">
-  <img height=240 align="center" src="https://github-readme-stats-lv1o.vercel.app/api?username=ThomasGoatITMedia&show_icons=true&rank_icon=percentile&show=reviews&theme=aura_dark" />
+  <img height=200 align="center" src="https://github-readme-stats-lv1o.vercel.app/api?username=ThomasGoatITMedia&show_icons=true&rank_icon=percentile&show=reviews&theme=aura_dark" />
 </a>
 <a href="https://github-readme-stats-lv1o.vercel.app/">
   <img height=200 align="top" src="https://github-readme-stats-lv1o.vercel.app/api/top-langs?username=ThomasGoatITMedia&layout=compact&langs_count=8&card_width=320&theme=aura_dark" />
